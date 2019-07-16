@@ -1,0 +1,7 @@
+img {
+  border-radius: 50%;
+}
+img:hover {
+  transform: scale(0.25);
+  transition: all .25s;
+}
