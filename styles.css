@@ -2,7 +2,7 @@ img {
   border-radius: 50%;
 }
 img:hover {
-  transform: scale(0.25);
+  transform: scale(5);
   transition: all .25s;
 }
 body {
